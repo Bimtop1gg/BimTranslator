@@ -48,4 +48,4 @@ This is caused by **Discord command caching**. You do not need to change any cod
 You can test the bot's translation quality on our official Discord server before committing to a subscription.
 
 * **Testing Server:** https://discord.gg/K2YmvkzTcV
-* **Subscription:** If you are satisfied with the bot's performance and wish to use it on your own server without limitations, please purchase an annual subscription: [Link for purchasing the subscription (Patreon / Buy Me a Coffee / etc.)]
+* **Subscription:** If you are satisfied with the bot's performance and wish to use it on your own server without limitations, please purchase an annual subscription:
