@@ -22,6 +22,9 @@ Translation is performed using a **Context Menu (Application Command)**.
 2.  Right-click on the message.
 3.  In the context menu, select **Apps**.
 4.  Click **"Translate to my language"**. 
+    
+    `![Скріншот контекстного меню](https://raw.githubusercontent.com/Bimtop1gg/BimTranslator/main/image.png)`
+
 5.  The translation will appear in a private (ephemeral) message visible only to you.
 
 ---
