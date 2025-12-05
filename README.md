@@ -36,8 +36,8 @@ This is caused by **Discord command caching**. You do not need to change any cod
 
 * **Easy Fix:** Wait **10–15 minutes**. In most cases, the cache will automatically refresh, leaving only one button.
 * **Fast Fix (If the wait fails):**
-    1.  Kick the BimTranslatorBot from your server.
-    2.  Re-invite it immediately.
+   1.  Kick the BimTranslatorBot from your server.
+   2.  Re-invite it immediately.
     
     This aggressive step guarantees a clean command cache reset at the server level.
 
