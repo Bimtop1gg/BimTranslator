@@ -22,11 +22,6 @@ Translation is performed using a **Context Menu (Application Command)**.
 2.  Right-click on the message.
 3.  In the context menu, select **Apps**.
 4.  Click **"Translate to my language"**. 
-    
-    *(**Примітка:** Тут ви додасте ваш скріншот, наприклад, так:)*
-    
-    `![Скріншот контекстного меню](URL_до_вашого_завантаженого_скріншоту.png)`
-
 5.  The translation will appear in a private (ephemeral) message visible only to you.
 
 ---
